@@ -19,7 +19,7 @@ I'm an enthusiastic software developer from India, specializing in full stack de
 
 ### 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kumaran-raja&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulraj1906&layout=compact&theme=merko)
 
 ![Gokul Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokulraj1906&show_icons=true&theme=merko)
 ![Gokul Raj's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gokulraj1906&theme=merko)
@@ -27,7 +27,7 @@ I'm an enthusiastic software developer from India, specializing in full stack de
 ---
 ### 📫 Connect with Me
 
-[![LinkedIn](https://www.linkedin.com/in/gokul-raj-b25aa624b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul-raj-b25aa624b/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/gokulraj1906)
 
 
